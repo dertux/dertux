@@ -1,6 +1,7 @@
 ## Hi there 👋
 
-![GitHub language](https://img.shields.io/github/languages/top/dertux/dertux)
+![GitHub last commit](https://img.shields.io/github/last-commit/dertux/dertux)
+![GitHub license](https://img.shields.io/github/license/dertux/dertux)
 
 
 <!--
