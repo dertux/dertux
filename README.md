@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+![GitHub language](https://img.shields.io/github/languages/top/dertux/dertux)
+
+
 <!--
 **dertux/dertux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
