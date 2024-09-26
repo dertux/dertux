@@ -1,7 +1,3 @@
-## Hi there 👋
-
-![GitHub last commit](https://img.shields.io/github/last-commit/dertux/dertux)
-![GitHub license](https://img.shields.io/github/license/dertux/dertux)
 
 
 <!--
